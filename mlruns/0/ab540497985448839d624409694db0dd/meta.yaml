@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/fraud-detection/mlruns/0/ab540497985448839d624409694db0dd/artifacts
+deleted_time: 1759620974316
+end_time: 1759620912463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ab540497985448839d624409694db0dd
+run_name: logreg_baseline_creditcard
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759620909451
+status: 3
+tags: []
+user_id: Sharaj

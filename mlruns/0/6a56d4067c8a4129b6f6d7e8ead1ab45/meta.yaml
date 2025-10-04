@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Projects/fraud-detection/mlruns/0/6a56d4067c8a4129b6f6d7e8ead1ab45/artifacts
+end_time: 1759621185240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a56d4067c8a4129b6f6d7e8ead1ab45
+run_name: rf_baseline_creditcard
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759621116015
+status: 3
+tags: []
+user_id: Sharaj

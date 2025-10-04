@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/fraud-detection/mlruns/0/412c4bd77b93453fa25d253b91709708/artifacts
+deleted_time: 1759620974316
+end_time: 1759620912687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 412c4bd77b93453fa25d253b91709708
+run_name: trusting-dolphin-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759620912497
+status: 3
+tags: []
+user_id: Sharaj

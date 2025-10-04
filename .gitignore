@@ -1,0 +1,16 @@
+# venv & caches
+venv/
+__pycache__/
+*.pyc
+
+# notebooks
+*.ipynb_checkpoints/
+
+# data & artifacts
+data/
+!data/.gitkeep
+notebooks/models/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
